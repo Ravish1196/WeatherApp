@@ -1,3 +1,12 @@
+# Project description
+This is a simple weather app built using React. It allows users to check the current weather conditions for a specific location.
+
+## Features
+
+- View the current weather conditions for a given location.
+- Search for weather information by city or zip code.
+- [Optional] Include additional features and functionalities.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
